@@ -3,7 +3,7 @@
 var express = require('express');
 var router = express.Router();
 var request = require('request');
-var url = "https://iori.kr"
+var url = "https://ujujuju.iori.kr"
 
 
 router.post('/game_rank',function(req,res){
